@@ -8,3 +8,48 @@ Student Hive is a secure and convenient platform designed to facilitate shared l
 * Patel, Parth Animeshkumar : Project Manager
 * Patel, Siddharthkumar Kamleshbhai : Data Analyst
 * Velamarthi, Rajkoushik : Full Stack Developer
+
+# Team Member Roles and Responsibilities
+All developers were involved in various aspects of the project, including but not limited to:
+* Front End Development
+* Back End Development
+* Project Design
+* Implementation of OAuth2.0 for authentication
+* State Management using TanStack Query (Context API)
+* Data validation using Zod
+* Communication with the server using Axios
+* Setting up the Back End with Node.js and Fastify
+* Database Management with MongoDB and Mongoose (ORM)
+* Authentication implementation with Passport.js
+
+# Project Design and Technologies Used
+## Front End
+* Framework: React React
+* State Management: Context API React
+* Authentication: OAuth2.0 React
+* Communication with Server: Axios React
+* Validation: Zod React
+## Back End
+* Framework: Node.js React, Fastify React
+* Database: MongoDB React
+* ORM: Mongoose React
+* Authentication: Passport React
+# CS691 - Spring 2024 Deliverables
+## Team working agreement
+* https://github.com/rajkoushikv/studenthive/blob/main/Resources/Team%20Working%20Agreement.pdf
+## Sprint 0
+### Presentations (Video and Slides)
+* Deliverable 1
+Deliverable 1 Presentation Video
+Deliverable 1 Presentation Slide
+## Sprint 1
+### Presentations (Video and Slides)
+* Deliverable 2
+ - Deliverable 2 Presentation Video
+ - Deliverable 2 Presentation Slide`Sprint 1
+Presentations (Video and Slides)
+Sprint 2
+Presentations (Video and Slides)
+https://github.com/rajkoushikv/studenthive.wiki.git
+Footer
+© 2024 GitHub,   
