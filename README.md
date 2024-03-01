@@ -39,17 +39,9 @@ All developers were involved in various aspects of the project, including but no
 * https://github.com/rajkoushikv/studenthive/blob/main/Resources/Team%20Working%20Agreement.pdf
 ## Sprint 0
 ### Presentations (Video and Slides)
-* Deliverable 1
-Deliverable 1 Presentation Video
-Deliverable 1 Presentation Slide
+* Deliverable 1 Presentation Video
+* Deliverable 1 Presentation Slide
 ## Sprint 1
 ### Presentations (Video and Slides)
-* Deliverable 2
- - Deliverable 2 Presentation Video
- - Deliverable 2 Presentation Slide`Sprint 1
-Presentations (Video and Slides)
-Sprint 2
-Presentations (Video and Slides)
-https://github.com/rajkoushikv/studenthive.wiki.git
-Footer
-© 2024 GitHub,   
+* Deliverable 2 Presentation Video
+* Deliverable 2 Presentation Slide
