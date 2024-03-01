@@ -44,4 +44,4 @@ All developers were involved in various aspects of the project, including but no
 ## Sprint 1
 ### Presentations (Video and Slides)
 * Deliverable 2 Presentation Video
-* Deliverable 2 Presentation Slide
+* Student Hive.pptx
